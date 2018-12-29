@@ -16,6 +16,21 @@ nav {
   width: 420px;
 }
 
+.container{
+  background-color: yellow;
+  padding: 50px;
+  border: 50px;
+  padding: 50px;
+  width: 300px;
+  height: 600px;
+}
 .restaurant-list {
   padding-top: 50px;
+}
+
+.arrow-left {
+  background-color: black;
+  padding: 40px;
+  border: 10px;
+  width: 300px;
 }
